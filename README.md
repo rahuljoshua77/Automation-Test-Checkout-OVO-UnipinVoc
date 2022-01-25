@@ -13,4 +13,6 @@ An automation test checkout OVO Unipin Voucher with Selenium
   
 # List.txt
 
-  Fill with your list acc
+  Fill with your list data email|nohp
+  
+  example: rahultampan@gmail.com|082266778822
